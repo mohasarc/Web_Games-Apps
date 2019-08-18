@@ -1,0 +1,15 @@
+.lost {
+	color: red;
+}
+
+.won  {
+	color: green;
+}
+
+h1 {
+	Text-Align: center;
+}
+
+button {
+	background: white;
+}
