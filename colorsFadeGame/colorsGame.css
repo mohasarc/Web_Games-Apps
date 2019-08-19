@@ -1,0 +1,104 @@
+#colorChanges {
+	background-color: #3393B2;
+	text-align: center;
+	color: white;
+	margin: 0px;
+	letter-spacing: 0.3em;
+}
+
+h3:first-of-type {
+	margin: 0px;
+	padding: 0px;
+	padding-top: 0.7em;
+}
+
+h3:last-of-type {
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 0.7em;
+}
+
+#theColor {
+	margin: 0px;
+	padding: 0px;
+}
+
+#blackLine {
+	background-color: white;
+	color: #3393B2;
+	text-align: center;
+	padding: 0.3em;
+	margin-bottom: 15px;
+	position: relative;
+}
+
+#status{
+	position: absolute;
+	margin-left: -50px;
+	text-align: center;
+}
+
+#newColor {
+	margin-right: 70px;
+}
+
+#rightHandSide {
+	margin-left: 70px;
+}
+
+#rightHandSide span {
+	padding-left: 0.15em;
+	padding-right: 0.15em;
+}
+
+.square {
+	width: 120px;
+	height: 120px;
+	margin-top: 10px;
+	margin-right: 10px;
+	border-radius: 25px;
+}
+
+
+.colorsArea {
+}
+
+.row {
+ 	align-items: center;
+ 	justify-content: center;
+ 	display: flex;
+ 	margin-bottom: 10px;
+}
+
+.colorsArea:{
+	margin-top: 20px;
+}
+
+body {
+	background-color: rgb(0,0,0);
+	margin: 0px;
+	padding: 0px;
+	font-family: SansSerifAtthia;
+}
+
+@font-face {
+	font-family: Atthia;
+	src: url(font/Atthia.otf);
+}
+
+@font-face {
+	font-family: SansSerifAtthia;
+	src: url(font/Atthia-Sanserif.otf);
+
+}
+
+.highlighted {
+	color: white;
+	background-color: #3393B2;
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+}
+
+.pointer {
+	cursor: pointer;
+}
