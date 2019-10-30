@@ -1,0 +1,14 @@
+body {
+	background-color: lightYellow;
+	color : darkGreen;
+}
+
+.camp-grounds{
+	background-color: white;
+	width : 700px;
+}
+
+.camp-grounds img {
+	width : 700px;
+	height: 500px;
+}

@@ -1,12 +1,14 @@
 // Views Variables
 var maxView         = document.querySelector("#max");
-var firstScore  = document.querySelector("#firstScore");
-var secondScore = document.querySelector("#secondScore");
+var firstScore      = document.querySelector("#firstScore");
+var secondScore     = document.querySelector("#secondScore");
+
 // Action Objects Variables
 var firstBtn        = document.querySelector("#firstPlayer");
 var secondBtn       = document.querySelector("#secondPlayer");
 var resetBtn        = document.querySelector("#reset");
 var maxChooser      = document.querySelector("#maxChooser");
+
 // Counting Variables
 var theMaxValue = 5;
 
